@@ -16,9 +16,15 @@ The diodes, which are designed to operate in the breakdown region, are called th
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
 
+![IMG_20251128_211547686_MFNR](https://github.com/user-attachments/assets/cdee5c9d-002a-4701-b001-81a1c94783de)
+
 ## REVERSE BIAS:
 
+![IMG_20251128_211552981_MFNR](https://github.com/user-attachments/assets/14525cea-c4d6-49d2-85ce-85d05bb8219e)
+
 ## MODEL GRAPH:
+
+![IMG_20251128_211559125_MFNR](https://github.com/user-attachments/assets/2a8bee70-6331-4152-ac1e-60d2149a6fa6)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -45,9 +51,15 @@ The diodes, which are designed to operate in the breakdown region, are called th
 
 ## TABULATION:
 
+![IMG_20251128_211618784_MFNR](https://github.com/user-attachments/assets/ec2da83f-f36c-4510-a0b3-82b2b1f15855)
+
 ## CALCULATIONS:
 
+![IMG_20251128_211633602_MFNR](https://github.com/user-attachments/assets/660307a6-d932-4d9b-a254-352c3a46be00)
+
 ## GRAPH:
+
+![IMG_20251128_211623880_MFNR](https://github.com/user-attachments/assets/b0157372-7ed1-4d26-a761-c3eee0df8315)
 
  ## RESULT:
  Thus the Zener diode characteristics were studied.
